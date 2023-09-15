@@ -1,3 +1,8 @@
 # README
 
-![](https://github.com/sleepydogo/alquilapp/blob/v_device/readme.png?raw=true)
+Pagina web para el alquiler de autos.
+
+Autores:
+Adriel Reverte
+Lisandro Vicens
+Tomas Schattman
